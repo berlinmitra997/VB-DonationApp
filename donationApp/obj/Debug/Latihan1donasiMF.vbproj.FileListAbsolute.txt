@@ -1,0 +1,106 @@
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe.config
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.exe
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.xml
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.pdb
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.pdb
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.xml
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Design.dll
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.dll
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Fonts.dll
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Transitions.dll
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbprojResolveAssemblyReference.cache
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Form1.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Resources.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbproj.GenerateResource.Cache
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.BaseUserControl.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Transaksi.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pendaftaran.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pembaruan.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Staff.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Manager.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Manager.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Staff.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Manager.resources
+E:\Berlin Mitra\Data Kegiatan\Latihan Visual Basic Metro Framework\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Staff.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe.config
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.exe
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.xml
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.pdb
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.pdb
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.xml
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.dll
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.pdfa.dll
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Design.dll
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.dll
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Fonts.dll
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.xml
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbprojResolveAssemblyReference.cache
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.BaseUserControl.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Form1.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Manager.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Staff.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Manager.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Staff.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Manager.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Staff.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Resources.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pembaruan.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pendaftaran.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Transaksi.resources
+E:\Kuliah\Semester 3\Proyek 1\Proyek 1 Donation GO\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbproj.GenerateResource.Cache
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe.config
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.exe
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.xml
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.pdb
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.pdb
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.xml
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.dll
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.pdfa.dll
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Design.dll
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.dll
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Fonts.dll
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.xml
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbprojResolveAssemblyReference.cache
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.BaseUserControl.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Form1.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Manager.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Staff.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Manager.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Staff.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Manager.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Staff.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Resources.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pembaruan.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pendaftaran.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Transaksi.resources
+E:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbproj.GenerateResource.Cache
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe.config
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.exe
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.xml
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.pdb
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.exe
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.pdb
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\Latihan1donasiMF.xml
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.dll
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.pdfa.dll
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Design.dll
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.dll
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\MetroFramework.Fonts.dll
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\bin\Debug\itextsharp.xml
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbprojResolveAssemblyReference.cache
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.BaseUserControl.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Form1.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Manager.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Laporan_Staff.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Manager.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Login_Staff.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Manager.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Menu_Staff.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Resources.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pembaruan.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Pendaftaran.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.Transaksi.resources
+D:\Berlin Mitra\Kuliah\Semester 3\Proyek TI 1\Referensi\Agien\Latihan1donasiMF\Latihan1donasiMF\obj\Debug\Latihan1donasiMF.vbproj.GenerateResource.Cache

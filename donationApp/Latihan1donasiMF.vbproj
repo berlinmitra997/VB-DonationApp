@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5007C22F-8ED1-4B05-BE79-BBC25DCFCC6C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Latihan1donasiMF.My.MyApplication</StartupObject>
+    <RootNamespace>Latihan1donasiMF</RootNamespace>
+    <AssemblyName>Latihan1donasiMF</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Latihan1donasiMF.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Latihan1donasiMF.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\itextsharp-all-5.5.10\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\itextsharp-all-5.5.10\itextsharp-dll-pdfa\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Transitions">
+      <HintPath>..\..\..\..\Kuliah\Semester 3\Proyek TI 1\Referensi\Created\bin\Debug\Transitions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseUserControl.Designer.vb">
+      <DependentUpon>BaseUserControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaseUserControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laporan_Manager.Designer.vb">
+      <DependentUpon>Laporan_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan_Manager.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Laporan_Staff.Designer.vb">
+      <DependentUpon>Laporan_Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan_Staff.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Login_Staff.Designer.vb">
+      <DependentUpon>Login_Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Staff.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Login_Manager.Designer.vb">
+      <DependentUpon>Login_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Manager.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu_Manager.Designer.vb">
+      <DependentUpon>Menu_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Manager.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu_Staff.Designer.vb">
+      <DependentUpon>Menu_Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Staff.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pembaruan.Designer.vb">
+      <DependentUpon>Pembaruan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pembaruan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pendaftaran.Designer.vb">
+      <DependentUpon>Pendaftaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pendaftaran.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Transaksi.Designer.vb">
+      <DependentUpon>Transaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaksi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BaseUserControl.resx">
+      <DependentUpon>BaseUserControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan_Manager.resx">
+      <DependentUpon>Laporan_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan_Staff.resx">
+      <DependentUpon>Laporan_Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Manager.resx">
+      <DependentUpon>Login_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Staff.resx">
+      <DependentUpon>Login_Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Manager.resx">
+      <DependentUpon>Menu_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Staff.resx">
+      <DependentUpon>Menu_Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pembaruan.resx">
+      <DependentUpon>Pembaruan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pendaftaran.resx">
+      <DependentUpon>Pendaftaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaksi.resx">
+      <DependentUpon>Transaksi.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
